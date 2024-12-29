@@ -1,0 +1,7 @@
+.bg-hero-container {
+  height: 100vh;
+  background-image: url("https://ik.imagekit.io/pt1wabkis/Sample/FoodStore/foodmunch-banner-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+}
